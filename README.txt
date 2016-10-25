@@ -8,7 +8,7 @@ I guess you can always tone down if it's a little too vibrant for you), a "stick
 nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
 you need one), and an assortment of pre-styled elements.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+Demo images* courtesy of Unsplash, a fantastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
 (* = not included)
